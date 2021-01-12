@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937618481076",
+    "project_id": "goalachiverapp",
+    "storage_bucket": "goalachiverapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937618481076:android:a56449c6016bad0fc09ce1",
+        "android_client_info": {
+          "package_name": "com.goalachiveacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937618481076-36rbpbr0nvad1mie822resbiqnc80eub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHRPipTicAL3BWGPOUG5GL3aJa0tVO8vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937618481076-36rbpbr0nvad1mie822resbiqnc80eub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
